@@ -1,0 +1,11 @@
+COURSE a
+COURSE b a
+COURSE c a b
+COURSE d a b c
+ABSTRACTION Major CSmath CSscience CScore
+ABSTRACTION CSMath CScalc CSprob
+ABSTRACTION CScalc a c
+ABSTRACTION CScalc a b
+ABSTRACTION CSprob d
+ABSTRACTION CSscience c
+ABSTRACTION CScore b
